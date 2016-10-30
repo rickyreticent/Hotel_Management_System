@@ -1,0 +1,1 @@
+This application developed for Hotel Management System offers various functionalities including managing a hotel’s daily activities such as check-in, room availability, checkouts, and reservations at other locations. HTML, JSP, J2EE, Rational Rose and Oracle database were used in designing and developing this application.
