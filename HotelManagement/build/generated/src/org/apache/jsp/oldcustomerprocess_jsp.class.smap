@@ -1,0 +1,26 @@
+SMAP
+oldcustomerprocess_jsp.java
+JSP
+*S JSP
+*F
++ 0 oldcustomerprocess.jsp
+oldcustomerprocess.jsp
+*L
+5,17:55
+22,33:73
+54,5:106
+59:111,3
+60,4:114
+64:118,3
+65,3:121
+68:124,3
+69,3:127
+72:130,3
+73,6:133
+79,3:140
+81,2:143
+83:145,5
+84:150,3
+85,20:153
+104,6:173
+*E
